@@ -5,6 +5,14 @@ COLLEGE DATA PROJECT:
  This project implements K-Means clustering, a popular unsupervised machine learning algorithm, to group data points into distinct clusters based on similarity. The algorithm aims to partition data into K clusters, where each cluster is represented by its centroid.
 
  DATASET:
+
+ Dataset source:
+  This dataset is available in kaggle website where i downloaded and used.
+
+ Dataset Description:
+ It has a lot of numerical data and only few categorical datas.
+ 
+ Dataset size:
  Dataset contains 19 columns:
  
  1)Unnamed: 0,
@@ -29,12 +37,11 @@ COLLEGE DATA PROJECT:
 
 
 
-
- LIBRARIES USED:
- 1)PANDAS,
- 2)SEABORN,
- 3)MATPLOTLIB,
- 4)WARNNGS.
+LIBRARIES USED:
+ 1)Pandas,
+ 2)Seaborn,
+ 3)Matplotlib,
+ 4)Warnings.
 
  TECHNIQUES USED:
  1)Label Encoder,
