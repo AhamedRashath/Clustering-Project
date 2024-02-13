@@ -34,7 +34,11 @@ COLLEGE DATA PROJECT:
  1)PANDAS,
  2)SEABORN,
  3)MATPLOTLIB,
- 4)WARNNGS
+ 4)WARNNGS.
+
+ TECHNIQUES USED:
+ 1)Label Encoder,
+ 2)MinMaxScaler.
 
  ALGORITHMS USED:
  K-Means clustering.
